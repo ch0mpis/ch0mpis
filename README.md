@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ch0mpis
 - 👀 I’m interested in HTML, CSS and Javascript rn
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate with my friends
+- 💞️ I’m would like to collaborate with my friends some day...
