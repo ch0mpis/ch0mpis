@@ -1,4 +1,1 @@
 - 👋 Hi, I’m ch0mpis.
-- 👀 I’m interested in HTML, CSS and Javascript rn.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I would like to collaborate with my friends some day, nothing special.
